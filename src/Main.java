@@ -6,4 +6,8 @@ public class Main {
     void qwerty() {
         System.out.println(123);
     }
+
+    void blalbla() {
+        System.out.println(235);
+    }
 }
